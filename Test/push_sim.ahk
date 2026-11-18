@@ -1,0 +1,1 @@
+XButton1::Send, qwertyuiop[]asdfghjkl;'\zxcvbnm,./1234567890-=
